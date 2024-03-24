@@ -211,8 +211,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     OWNER_INFO = """
-<b>{} 🙋‍♂
-
+<b>
 🔺 ᴍʏ ɴᴀᴍᴇ - Dev
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL'>Team_MDL</a>
 ❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_Admin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
