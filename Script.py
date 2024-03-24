@@ -211,15 +211,18 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     OWNER_INFO = """
-    <b> ADMIN INFO 🔰
-    
-    NAME : DEV WILSON 🧑🏻‍💻
-    AGE : 20 🔞
-    STUDY : BCA 👨🏻‍🎓
-    ADMIN OF #Team_MDL 👑
-    MOVIES UPLOAD 📥
-    
-   ☎️ CONTACT HERE: <a href="https://t.me/team_MDL_admin_bot">Click Here</a></b>"""
+<b>{} 🙋‍♂
+
+🔺 ᴍʏ ɴᴀᴍᴇ - Dev
+♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL'>Team_MDL</a>
+❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_Admin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+👼 ᴅᴏʙ - 24 | 07 | 2004
+⏳ ʟᴇᴠᴇʟ - ɢʀᴀᴅᴜᴀᴛɪᴏɴ
+🎭 ᴀɢᴇ - ᴊᴜsᴛ ᴄᴀʟᴄᴜʟᴀᴛᴇ
+🔱 ʀᴇʟɪɢɪᴏɴ ᴄᴀsᴛ - ʜɪɴᴅᴜ
+🏛 ᴘʟᴀᴄᴇ - ɪɴᴅɪᴀ
+🗣 ᴋɴᴏᴡ ʟᴀɴɢᴜᴀɢᴇ - ʜɪɴᴅɪ, ᴇɴɢʟɪsʜ</b>
+"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
