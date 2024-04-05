@@ -68,7 +68,7 @@ STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAENnUFlrTIf0FT-TgqEaSAhVh_UQKW
 auth_channel = environ.get('AUTH_CHANNEL')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
-REQ_CHANNEL = environ.get("REQ_CHANNEL", "")
+REQ_CHANNEL = environ.get("REQ_CHANNEL", "-1002028985357")
 REQ_CHANNEL = int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL) else False
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 
@@ -98,7 +98,7 @@ OWN_LNK = environ.get('S_GROUP',"https://telegram.me/+KAjYvbNDdKhlYmE1")
 MVG_LNK = environ.get('S_GROUP',"https://telegram.me/+KAjYvbNDdKhlYmE1")
 MSG_ALRT = environ.get('MSG_ALRT', 'ꜱʜᴀʀᴇ  ᴀɴᴅ  ꜱᴜᴘᴘᴏʀᴛ  ᴜꜱ')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://telegram.me/+KAjYvbNDdKhlYmE1')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
