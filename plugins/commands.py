@@ -940,7 +940,7 @@ async def deletemultiplefiles(bot, message):
 @Client.on_message(filters.command("set_shortlink"))
 async def shortlink(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://github.com/NobiDeveloper/Nobita-Filter-Bot"),
+        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://t.me/Team_MDL_ADMIN_bot"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/Team_MDL")
         ],[
         InlineKeyboardButton(text="ᴀᴅᴅ  ʏᴏᴜʀ  ꜱʜᴏʀᴛɴᴇʀ", url="http://telegram.me/MDL_Filter_Bot?startgroup=true")
@@ -1033,7 +1033,7 @@ async def ginfo(bot, message):
 @Client.on_message(filters.command("set_tutorial"))
 async def tutorial(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://github.com/NobiDeveloper/Nobita-Filter-Bot"),
+        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://t.me/Team_MDL_ADMIN_bot"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/Team_MDL")
         ],[
         InlineKeyboardButton(text="ᴀᴅᴅ  ʏᴏᴜʀ  ᴛᴜᴛᴏʀɪᴀʟ", url="http://telegram.me/MDL_Filter_Bot?startgroup=true")
@@ -1063,10 +1063,10 @@ async def tutorial(bot, message):
 @Client.on_message(filters.command("rem_tutorial"))
 async def removetutorial(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://github.com/NobiDeveloper/Nobita-Filter-Bot"),
+        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://t.me/Team_MDL_ADMIN_bot"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/Team_MDL")
         ],[
-        InlineKeyboardButton(text="ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/@MoviesDudeZ")
+        InlineKeyboardButton(text="ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/@ExploreSimulator")
     ]]
     userid = message.from_user.id if message.from_user else None
     if not userid:
