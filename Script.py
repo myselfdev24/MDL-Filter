@@ -193,21 +193,22 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「 🥀 WELCOME TO TEAM_MDL ✨ 」──────
+<b><blockquote>──────「 🥀 WELCOME TO TEAM_MDL ✨ 」──────</blockquote></b>
 
+<b>
 ➥ Join Our Movies Channel 🔰
 
-›› <a href='https://t.me/Team_MDL'>[Main Channel]</a>
+›› <a href='https://t.me/Team_MDL'>✨ Main Channel ✨</a>
 
-›› <a href='https://t.me/+qnMrDRdW-cQ5ODU1'>Movies [File Channel]</a>
+›› <a href='https://t.me/+9Or0-E6FcMYzYWU9'>⚡️ Cartoon Worlds Tamil ⚡️</a>
 
-›› <a href='https://t.me/+IEuqAeD0ioMzZTE1'>Hollywood Dubbed Movies</a>
+›› <a href='https://t.me/+p039cDOT9VFjMWQ9'>〽️ Anime Rips 〽️</a>
 
-›› <a href='https://t.me/+ZjNVcrSU_zs3MjA9'>Tamil Web-Series</a>
+›› <a href='https://t.me/+KAjYvbNDdKhlYmE1'>🔥 Movie Request Group 🔥</a>
 
-›› <a href='https://t.me/+KAjYvbNDdKhlYmE1'>Movie Request Group</a>
+➥ MY Best Friend :<a href='tg://settings'>This Person</a>.</b>
 
-➥ MY Best Friend :<a href='tg://settings'>This Person</a>.</b>"""
+<b>🥀 Admin => @Team_MDL_Admin_Bot </b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
