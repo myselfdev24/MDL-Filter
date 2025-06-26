@@ -58,10 +58,10 @@ class script(object):
     BUTTON_TXT = """
 <b>{} 🙋‍♂
 
-🔺 ᴍʏ ɴᴀᴍᴇ - Wilson
+🔺 ᴍʏ ɴᴀᴍᴇ - ᴛʜᴀʟᴀ
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL_Admin_bot'>Team_MDL</a>
 ❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_ADmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-👼 ᴅᴏʙ - 08 | 04 | 2004
+👼 ᴅᴏʙ - XX | XX | 2004
 ⏳ ʟᴇᴠᴇʟ - ɢʀᴀᴅᴜᴀᴛɪᴏɴ
 🎭 ᴀɢᴇ - ᴊᴜsᴛ ᴄᴀʟᴄᴜʟᴀᴛᴇ
 🔱 ʀᴇʟɪɢɪᴏɴ ᴄᴀsᴛ - ʜɪɴᴅᴜ
